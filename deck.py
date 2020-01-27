@@ -14,6 +14,7 @@ values = {'Two':2, 'Three':3, 'Four':4, 'Five':5, 'Six':6, 'Seven':7, 'Eight':8,
 # print(random_ranks + ' ' + random_suits)
 
 playing = True
+
 class Cards():
     # defining card atributes
     def __init__(self,suits,ranks):
